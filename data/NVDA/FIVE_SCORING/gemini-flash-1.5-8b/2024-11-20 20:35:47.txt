@@ -1,0 +1,2 @@
+NVIDIA's Q3 earnings call highlighted record growth, driven by exceptional demand for the H200 and the upcoming Blackwell.  The company is seeing strong adoption across all market segments, particularly data centers, fueled by breakthroughs in generative AI and the need for significant compute power for training and inference.  Management anticipates continued strong performance and significant revenue growth in the coming quarters. 
+2

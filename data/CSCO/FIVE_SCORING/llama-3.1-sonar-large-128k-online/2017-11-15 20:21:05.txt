@@ -1,0 +1,17 @@
+Cisco Systems' Q1 FY2018 earnings call presented several positive and neutral factors that will likely influence the stock price in the short term. Here are the key points:
+
+### Positive Factors
+- **Strong Adoption of New Products**: The company saw significant adoption of its new intent-based networking solutions, with over 1,100 customers adopting the Catalyst 9000 switching platform in just a few months. This indicates strong momentum in core business innovation.
+- **Growth in Software and Subscriptions**: Cisco reported a 32% of total revenue from recurring offers, a 3-point increase from the previous year, and a 37% growth in software subscription revenue. This shift towards recurring revenue models is a positive indicator of long-term stability and growth.
+- **Security Segment Performance**: The Security segment saw an 8% revenue growth, with strong performance in advanced threat, unified threat, and web security, and a 42% growth in deferred revenue.
+- **Strategic Acquisitions and Partnerships**: The acquisition of BroadSoft and the partnership with Google to develop a hybrid cloud solution are strategic moves that position Cisco well for future growth in multi-cloud environments.
+
+### Neutral Factors
+- **Revenue Growth Guidance**: The company guided for a revenue growth of 1% to 3% in Q2, which is cautiously positive but not exceptionally strong.
+- **Gross Margin Pressure**: The impact of higher memory prices continues to affect gross margins, although this is expected to be temporary.
+- **Enterprise Routing Weakness**: The decline in enterprise routing revenue, partly due to the SD-WAN transition, is a short-term challenge.
+
+### Conclusion
+Given the strong adoption of new products, growth in software and subscription revenues, and positive performance in the Security segment, these factors are likely to outweigh the short-term challenges such as gross margin pressure and weakness in enterprise routing. The stock is expected to see a positive impact in the short term.
+
+**Rating: 1**

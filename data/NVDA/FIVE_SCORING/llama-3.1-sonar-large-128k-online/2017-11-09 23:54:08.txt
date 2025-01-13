@@ -1,0 +1,15 @@
+NVIDIA's Q3 fiscal 2018 earnings call highlighted several key points that are likely to impact the stock price in the short term:
+
+1. **Record Revenue and Profits**: NVIDIA reported record revenue of $2.64 billion, up 32% year-over-year, and record GAAP EPS of $1.33, up 60% year-over-year. This strong financial performance is typically positively received by the market[2][5].
+
+2. **Growth Across All Platforms**: The company saw significant growth in its gaming, datacenter, professional visualization, and automotive segments. The datacenter segment more than doubled year-over-year, and the gaming segment saw robust demand driven by strong content and e-sports[4].
+
+3. **Volta and AI Momentum**: The adoption of Volta architecture and the company's AI inference solutions are gaining strong traction. Major cloud providers and server OEMs are supporting Volta, indicating a solid future growth trajectory[4].
+
+4. **Positive Outlook**: The guidance for Q4 is strong, with expected revenue of $2.65 billion and continued high gross margins. The company also announced plans to return $1.25 billion to shareholders in fiscal 2019, which is generally viewed positively by investors[4].
+
+5. **Management's Confidence**: Jen-Hsun Huang and Colette Kress expressed confidence in the company's future growth drivers, including AI, autonomous vehicles, and continued dominance in the gaming market. This confidence can boost investor sentiment.
+
+Given these points, the overall sentiment from the earnings call is positive, indicating that the stock is likely to see a short-term rally.
+
+[2]

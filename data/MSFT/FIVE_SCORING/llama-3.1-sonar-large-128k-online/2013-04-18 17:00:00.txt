@@ -1,0 +1,18 @@
+Microsoft's Q3 FY2013 earnings call highlighted several key points that could influence the short-term stock performance:
+
+1. **Revenue and Earnings Growth**: Microsoft reported an 8% increase in revenue and an 8% increase in earnings per share, which is generally positive. However, the revenue was slightly below expectations, and the growth was partly driven by non-recurring items such as the Windows Upgrade Offer and Office Upgrade Offer[2][3].
+
+2. **Transition to New Computing Devices**: The company is navigating a challenging PC market transition to touch-enabled and mobile devices. While Windows revenue was flat, there is optimism about the long-term success of Windows 8 and future updates, such as Windows Blue. This transition, however, introduces short-term uncertainty[2][3].
+
+3. **Strong Enterprise and Cloud Performance**: Microsoft's enterprise business, including cloud services like Office 365 and Windows Azure, showed strong growth. This segment's performance is a positive indicator for long-term stability and growth[2][3].
+
+4. **Expanding Product and Service Offerings**: The launch of new Office, Surface Pro, and advancements in Xbox Live and Windows Azure are positive signs of innovation and market expansion. However, the near-term impact of transitioning to subscription-based services may defer some revenue recognition[2][3].
+
+Given these points, the stock is likely to experience some short-term volatility due to mixed signals:
+- Positive earnings and revenue growth, along with strong enterprise and cloud performance.
+- Short-term challenges in the Windows division due to the transition in the PC market.
+- Deferred revenue recognition from subscription services.
+
+However, the overall outlook is positive due to the company's diversified portfolio, innovative product launches, and strong cloud services growth.
+
+**Rating: 1**

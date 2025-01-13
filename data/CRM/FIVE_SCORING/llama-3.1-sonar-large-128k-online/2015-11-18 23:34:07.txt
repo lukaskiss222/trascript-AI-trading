@@ -1,0 +1,10 @@
+The Salesforce fiscal third quarter 2016 earnings transcript indicates strong performance and positive outlook for the company. Here are the key points:
+
+- **Revenue and Growth**: Salesforce reported a 24% year-over-year revenue growth to $1.71 billion, with strong performance across all geographic regions and product lines. The company raised its full-year revenue guidance to $6.64-$6.65 billion and initiated fiscal 2017 revenue guidance of $8-$8.1 billion[5）。
+- **Profitability**: The company delivered improving profitability, with a 221 basis points year-over-year increase in non-GAAP operating margin and a non-GAAP EPS of $0.21. Operating cash flow was strong, and free cash flow was up 47% year-to-date[5].
+- **Customer and Market Success**: Salesforce highlighted significant customer wins, including General Motors, American Express, and AB InBev, and emphasized its industry strategy and partner ecosystem as key drivers of growth. The company also noted its leadership in customer service and support, displacing legacy vendors like Oracle and SAP[5].
+- **Forward-Looking Guidance**: The company is well-positioned for a strong finish to FY '16 and another solid year in FY '17, with confident guidance on revenue, operating margin, and cash flow[5].
+
+Given these points, the transcript suggests a strong and positive outlook for Salesforce, indicating continued growth, improved profitability, and significant customer and market success.
+
+**Rating: 2**

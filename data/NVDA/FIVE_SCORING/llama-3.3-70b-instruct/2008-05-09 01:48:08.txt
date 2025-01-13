@@ -1,0 +1,3 @@
+NVIDIA's Q1 earnings report showed revenue growth of 37% year-over-year, driven by strong demand for GPUs. However, gross margin was disappointing due to product transition issues. The company expects gross margin to increase by 100 basis points in Q2, driven by improvements in manufacturing. NVIDIA also announced several new products and initiatives, including a partnership with VIA and the release of CUDA 2.0. Despite some concerns about notebook share loss and inventory levels, the company's strong product position and growing demand for visual and parallel computing are expected to drive growth.
+
+[1]

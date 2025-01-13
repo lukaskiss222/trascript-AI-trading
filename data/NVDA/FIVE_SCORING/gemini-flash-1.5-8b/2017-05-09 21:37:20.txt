@@ -1,0 +1,2 @@
+NVIDIA's Q1 2018 earnings call highlights significant data center growth, driven by strong AI adoption across cloud providers and enterprises.  Management emphasizes the broad-based demand for GPU computing, including high-performance computing and graphics virtualization.  Management also expressed optimism on the expansion of their GPU usage in various industries, solidifying their position as a key player in accelerated computing.
+[2]

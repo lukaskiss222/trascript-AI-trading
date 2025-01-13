@@ -1,0 +1,18 @@
+The transcript for Salesforce.com's Q1 2011 fiscal results indicates several positive and a few cautious notes that could influence the stock price in the short term:
+
+### Positive Indicators:
+- **Strong Revenue Growth**: Salesforce reported a 24% year-over-year revenue increase to $377 million, exceeding expectations and pushing past the $1.5 billion annual revenue run rate threshold[4].
+- **Record Cash Generation**: The company achieved a record operating cash flow of $143 million, a 46% increase from the previous year[4].
+- **Customer Growth**: Added 4,800 net new customers, the highest quarterly addition since Q4 FY2008, bringing the total customer base to over 77,000[4].
+- **Innovative Products and Acquisitions**: The acquisition of Jigsaw and the introduction of Salesforce Chatter, VMforce, and other technologies are expected to drive future growth and customer satisfaction[4].
+- **International Expansion**: Strong growth in international markets, particularly in Japan and Europe, with revenue in Asia rising 55% year-over-year[4].
+
+### Cautious Notes:
+- **Currency Headwinds**: The weakening of the euro against the dollar is expected to reduce revenue by approximately $20 million for the remaining quarters of FY2011[4].
+- **Acquisition Dilution**: The Jigsaw acquisition and two small technology acquisitions are expected to be dilutive to non-GAAP EPS by approximately $0.11 and $0.02 respectively for the remainder of the year[4].
+- **Guidance Adjustments**: While the company raised its revenue guidance, the non-GAAP EPS guidance was adjusted downward due to the impacts from acquisitions and currency fluctuations[4].
+
+### Conclusion:
+Given the strong financial performance, significant customer growth, and innovative product launches, despite some short-term dilution from acquisitions and currency impacts, the overall sentiment is positive. However, the immediate impact of these factors might slightly temper the stock's short-term performance.
+
+**Rating: 1**

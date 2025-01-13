@@ -1,0 +1,19 @@
+Based on my analysis of IBM's Q2 earnings call transcript, here are the key points impacting the short-term stock outlook:
+
+Positives:
+- Strategic growth areas (cloud, analytics, mobile) showing strong performance with double-digit growth
+- Mainframe business stabilizing, down only 1% YoY
+- Company reaffirmed full-year EPS guidance of $18
+- Continued strong margins and cost management
+
+Negatives:
+- Software growth was flat/weak, missing expectations for improvement
+- Services signings down 33% in first half, lowest in 6 years
+- Growth markets (ex-Japan) still challenged, especially Asia-Pacific
+- Company faces ongoing secular challenges in hardware business
+
+While IBM is making progress on strategic initiatives, the weakness in core software and services businesses is concerning for near-term performance. The company faces execution challenges as it transitions its business model.
+
+Given the mixed signals but predominantly negative trends in key businesses, I expect modest downward pressure on the stock over the next 1-2 weeks.
+
+[-1]

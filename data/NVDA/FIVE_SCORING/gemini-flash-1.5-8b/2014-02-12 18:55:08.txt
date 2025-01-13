@@ -1,0 +1,2 @@
+NVIDIA's earnings call highlights strong performance, particularly in high-end gaming and professional applications like HPC (high-performance computing).  Management's optimistic outlook for Tegra K1 and automotive initiatives, combined with the company's share repurchase plans, suggests positive short-term momentum.  The slightly weaker-than-expected sequential decline in overall PC revenue, impacting NVIDIA's mainstream GPU sales, may create some minor near-term volatility.
+[1]

@@ -1,0 +1,16 @@
+Based on the transcript, Salesforce's Q2 2009 earnings call revealed robust financial performance and growth, with key highlights including:
+
+- **Revenue Growth**: Salesforce achieved a 49% year-over-year increase in revenue to $263 million.
+- **Customer Success**: The company added a record 4,100 net new customers, bringing the total to 47,700.
+- **Strategic Acquisitions**: Salesforce announced the acquisition of InStranet, which will enhance its customer service and support capabilities.
+- **Platform Expansion**: The company is expanding its force.com platform as a service, which is gaining traction among developers and ISVs.
+
+Despite these positive developments, analysts and investors should consider the following factors:
+
+- **Deferred Revenue**: Salesforce's deferred revenue grew by $9 million, which is slightly lower than expected. The company attributes this to the timing of large deals and the impact of the strong fourth quarter in 2008.
+- **Acquisition Impact**: The InStranet acquisition will have a near-term impact on GAAP earnings and cash flow, but the company expects it to be EPS neutral in fiscal 2010.
+- **Currency Headwinds**: The strengthening of the U.S. dollar may impact revenue and profit growth in the second half of the year.
+
+Overall, the earnings call highlights Salesforce's strong growth and customer success, but there are some short-term concerns to consider. Given these factors, the stock is likely to face some short-term volatility in the coming weeks.
+
+**Rating: 1**

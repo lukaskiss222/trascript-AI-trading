@@ -1,0 +1,19 @@
+**Analysis:**
+
+The earnings call for IBM provided a comprehensive overview of the company's performance and strategic initiatives. The key points include:
+
+1. **Financial Performance:** IBM reported $18.2 billion in revenue and $2.38 in EPS for the first quarter, which was in line with expectations. The company's strategic imperatives, particularly cloud and mobile, continued to drive growth, with cloud revenue reaching $14.5 billion over the last 12 months.
+
+2. **Strategic Initiatives:** IBM's strategic imperatives, including cloud, cognitive, and mobile solutions, demonstrated strong growth and continued to be a significant driver of revenue. The company also highlighted partnerships and collaborations with major players like Visa, Samsung, and H&R Block, which are expected to expand IBM's reach and capabilities.
+
+3. **Gross Margin and Cost-Saving Measures:** The company reported a decline in gross margin, which was attributed to continued investments in strategic areas and the mix towards SaaS. However, IBM expects to see improvements in margins as the investments start to yield returns and operational efficiencies are realized.
+
+4. **IP Income and Discrete Tax Benefits:** IBM's IP income increased significantly in the first quarter, driven by new partnerships and licensing agreements. The company also benefited from a discreet tax benefit of $500 million in the first quarter.
+
+5. **Outlook:** IBM maintained its full-year guidance for EPS and free cash flow, expecting at least $13.80 in EPS and flat free cash flow compared to the previous year. The company expects to see sequential improvement in the second half, driven by new system product introductions, cost savings, and improved revenue growth in the services business.
+
+**Conclusion:**
+
+IBM's earnings call highlighted a mixed performance with strong growth in strategic imperatives and continued investments in high-value areas. The company expects to see improvements in margins and revenue growth in the second half, driven by new system product introductions, cost savings, and improved revenue growth in the services business. Overall, the call provided a positive outlook for IBM's long-term growth prospects, but investors should be aware of the near-term challenges related to gross margin and the potential impact of currency headwinds.
+
+**Rating:** 1

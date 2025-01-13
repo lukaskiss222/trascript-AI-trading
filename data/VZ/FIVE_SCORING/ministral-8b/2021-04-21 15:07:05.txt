@@ -1,0 +1,10 @@
+Based on the earnings transcript for Verizon Communications Inc., the company reported strong financial results for the first quarter of 2021. The key highlights include:
+
+- **Revenue Growth**: Verizon reported a 4.0% increase in consolidated operating revenue year-over-year, driven by strong growth in wireless service revenues, Fios revenues, and Verizon Media Group revenues.
+- **5G Deployment**: Verizon continued to expand its 5G network, with 30 5G home and 67 5G mobility cities live. The company also signed its first European private 5G deal and expanded its 5G edge partnership with AWS.
+- **C-Band Deployment**: Verizon announced the commencement of C-Band deployment, with plans to cover 100 million POPs by March 2022. The company has already ordered half of the network equipment needed for C-Band deployments in 2021.
+- **Fios Growth**: Fios Internet reported the best first quarter net adds in six years, with total Fios Internet net adds of 102,000. The company attributed this growth to the popularity of its Mix & Match phone pricing structure.
+- **Cost-Saving Efforts**: Verizon achieved its cumulative cash savings goal of $10 billion, well ahead of its year-end 2021 target. The company also announced plans to reduce its net unsecured debt to approximately 2.8 times its adjusted EBITDA by the end of the year.
+- **Free Cash Flow**: Verizon reported $5.2 billion in free cash flow for the first quarter, up 46% year-over-year. The company also paid $45 billion to the FCC for C-Band spectrum won at the recently completed Auction 107.
+
+Overall, the earnings call provided a positive outlook for Verizon, with strong financial performance and continued growth in key areas such as 5G deployment, Fios growth, and cost-saving efforts. The company's strategic focus on 5G, broadband, and media services positions it well for long-term growth.

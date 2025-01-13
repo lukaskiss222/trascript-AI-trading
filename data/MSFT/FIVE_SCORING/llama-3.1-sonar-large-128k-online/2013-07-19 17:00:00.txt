@@ -1,0 +1,15 @@
+Microsoft's Q4 FY2013 earnings report and the subsequent conference call reveal several key points that could impact the stock price in the short term:
+
+1. **Missed Expectations and Inventory Adjustments**: Microsoft fell short of Wall Street's expectations, reporting $0.59 EPS on $19.89 billion in revenue, partly due to a $900 million charge for Surface RT inventory adjustments. This shortfall and the significant charge could negatively impact investor sentiment in the short term[3][5].
+
+2. **Declining PC Market**: The consumer x86 PC market continued to decline, affecting Windows division revenue. This trend is expected to persist, which may continue to pressure the stock in the near term[3][4].
+
+3. **Strong Enterprise and Cloud Performance**: Despite the challenges in the consumer PC market, Microsoft saw strong demand for its enterprise products and cloud services, including Office 365, Windows Azure, and SQL Server. This strength could provide some stability and potential for long-term growth, but may not immediately offset the short-term concerns[3][4].
+
+4. **Operational Expenses and Guidance**: Microsoft revised its operating expense guidance downward, which could be seen as a positive move towards cost efficiency. However, the immediate impact of higher CapEx and ongoing investments in cloud infrastructure might keep the stock under pressure[3][4].
+
+5. **Transition to Subscription Models**: The shift to subscription models, while beneficial for long-term stability and predictability, has a short-term negative impact on revenue recognition. This transition might continue to affect the stock as investors adjust to the new revenue recognition patterns[3][4].
+
+Given these points, the stock is likely to face short-term pressure due to the missed earnings expectations, inventory adjustments, and the ongoing decline in the consumer PC market, despite the positive long-term outlook for enterprise and cloud services.
+
+**Rating: -1**

@@ -1,0 +1,3 @@
+NVIDIA's Q4 earnings call highlighted the company's strong performance, with revenue and gross margin exceeding expectations. The GPU business saw significant growth, driven by demand for GeForce and Quadro products, and the company's investments in R&D are expected to drive top-line growth. Despite supply constraints, NVIDIA is optimistic about its growth prospects, driven by new products such as Fermi, Tegra, and 3-D Vision. The company's focus on software and differentiation is expected to lead to higher gross margins, and the Tegra business is poised for expansion beyond tablets.
+
+[2]

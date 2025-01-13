@@ -1,0 +1,11 @@
+Salesforce.com's Q3 2009 earnings call presented several positive and robust indicators that suggest a strong short-term outlook for the company's stock. Here are the key points:
+
+- **Strong Revenue Growth**: Salesforce reported a 43% year-over-year revenue increase to $276 million, exceeding analysts' expectations. The company's annual revenue run rate now exceeds $1.1 billion, a significant milestone[2][3].
+- **Customer Acquisition and Retention**: The company added 4,100 new customers, maintaining a low attrition rate of less than 1% per month. This demonstrates stable and growing customer base across small, medium, and large enterprises[2][3].
+- **Diversification and Innovation**: Salesforce saw significant growth in non-Salesforce Automation products, including customer service and support, and the Force.com platform. These areas are expanding rapidly and contributing to the company's overall growth[2][3].
+- **Financial Health**: Despite some impact from foreign exchange and one-time expenses, the company reported solid operating margins and a healthy cash position of $805 million. The guidance for Q4 and fiscal 2010 is also positive, with projected revenue growth of 27% for fiscal 2010[2][3].
+- **Market Momentum**: The economic environment, while uncertain, appears to be favoring Salesforce's cloud computing model over traditional enterprise software. The company's value proposition of low startup costs, low risk, and fast results is resonating well with customers[2][3].
+
+Given these strong performances and positive outlooks, the stock is likely to experience a positive impact in the short term.
+
+**Rating: 1**

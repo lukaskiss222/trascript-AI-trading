@@ -1,0 +1,29 @@
+### Analysis
+
+The JPMorgan Chase & Co. earnings call provided an overview of the company's financial performance for the third quarter of 2008, highlighting the impact of the Washington Mutual (WaMu) acquisition and the broader economic environment. Key points include:
+
+1. **Washington Mutual Acquisition Impact**: The acquisition of WaMu significantly impacted JPMorgan's financials, with the company reporting $527 million in net income including WaMu-related items, and $1.167 billion in net income excluding WaMu. The company expects an incremental EPS of $0.50 for 2009 and a pro-rata portion of that in the fourth quarter.
+
+2. **Credit Reserves and Capital**: JPMorgan increased its credit reserves by $1.3 billion in the quarter, bringing the total to $15.3 billion. The company maintained strong Tier 1 capital at 8.9%, supported by a successful $11.5 billion capital raise.
+
+3. **Investment Banking**: The investment banking division reported $882 million in net income, driven by strong fee revenues and trading results. However, the company expects lower earnings in the investment banking division due to the challenging economic environment.
+
+4. **Retail Banking**: Retail banking revenue grew by 16% year-over-year, but net income was down due to higher credit costs. The company expects credit costs to continue to rise due to economic uncertainty.
+
+5. **Card Services**: Card services reported $292 million in profits, down from the prior year. The company expects credit losses to trend upward in the fourth quarter and into 2009.
+
+6. **Commercial Banking**: Commercial banking profits were up 21% year-over-year, driven by loan growth and deposit balances. The company expects credit costs to worsen as the economy deteriorates.
+
+7. **Treasury and Security Services**: Treasury and security services reported $406 million in profits, up from the prior year. The company expects market conditions to continue to impact this segment.
+
+8. **Asset Management**: Asset management reported $351 million in net income, down from the prior year. The company expects market conditions to continue to impact this segment.
+
+9. **Corporate and Other**: Corporate and other reported $1.64 billion in losses, driven by write-downs on Fannie and Freddie preferred securities and auction rate security settlements. The company expects continued volatility in this segment.
+
+10. **Outlook**: The company expects higher credit costs and loan loss reserves in the coming quarters due to economic uncertainty. The company also expects lower earnings in the investment banking division.
+
+### Conclusion
+
+The short-term (1-2 weeks) impact on JPMorgan Chase's stock price is expected to be negative. The company's earnings were impacted by the Washington Mutual acquisition and the broader economic environment. The company expects higher credit costs and loan loss reserves in the coming quarters, which could lead to lower earnings. Additionally, the company's outlook for the investment banking division is cautious, which could impact investor sentiment. Overall, the company's stock price is likely to face downward pressure in the short term.
+
+**Rating: -1**

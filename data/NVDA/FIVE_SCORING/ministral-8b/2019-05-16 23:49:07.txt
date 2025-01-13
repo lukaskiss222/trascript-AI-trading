@@ -1,0 +1,13 @@
+Based on the earnings transcript, NVIDIA Corporation's Q1 results showed a 31% year-over-year decline in revenue to $2.2 billion, primarily due to a pause in hyperscale spending and a CPU shortage affecting gaming notebooks. The company's gaming business was down 39% year-over-year but up 11% sequentially, driven by the initial ramp of Turing and the reduction of inventory in the channel. The company expects continued growth in the gaming laptops segment due to the launch of new mid-range GeForce products and the expansion of the GeForce NOW cloud gaming service.
+
+The data center business was down 10% year-over-year and 7% sequentially, reflecting the pause in hyperscale spending. However, the company saw strong growth in inference revenue, which now contributes to double-digit percent of data center revenue. The company also expanded its reach in enterprise computing with the launch of T4 enterprise and edge computing servers, which are optimized for AI and data analytics.
+
+NVIDIA's pro visualization business reached $266 million, up 6% year-over-year and down 9% sequentially. The company's automotive business was up 14% year-over-year and 2% sequentially, driven by growing adoption of next-generation AI cockpit solutions and autonomous vehicle development deals.
+
+The company's gross margins were down year-over-year to 58.4% (GAAP) and 59% (non-GAAP), due to lower gaming margins and a mix-up sequentially from Q4. The company's operating expenses were up 21% year-on-year and 16% sequentially, driven by investments in key platforms driving long-term growth.
+
+NVIDIA's guidance for the second quarter of fiscal 2020 was $2.55 billion, down 31% year-over-year and up 1% sequentially. The company expects a stronger second half than the first half and is returning to its practice of providing revenue outlook one quarter at a time.
+
+Overall, NVIDIA's results showed mixed signals, with strong growth in some segments but challenges in others. The company's guidance for the second quarter was below expectations, but the company remains focused on driving growth in gaming, AI, and autonomous vehicles.
+
+Rating: -1

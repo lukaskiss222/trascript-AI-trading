@@ -1,0 +1,7 @@
+### Analysis:
+The earnings call for NVIDIA Corporation in Q2 of fiscal 2014 revealed a mixed bag of results. The company reported strong performance in its GPU business, with a 9% quarter-over-quarter increase and 8% year-over-year growth. However, Tegra Processor business revenue was down 49% sequentially and 71% year-over-year, which was disappointing. The company attributed this to the transition between Tegra 3 and Tegra 4 and the delay in the Tegra 4i modem and Logan projects. Despite this, management expressed optimism about the future, particularly in the Tegra 4 and SHIELD products. The call also highlighted the company's focus on reducing operating expenses and its commitment to capital returns. Overall, the call provided a mixed picture with strong performance in some areas but also significant challenges in others. The stock is likely to face short-term pressure due to the disappointing Tegra results but could rally if the market perceives the company's strategic initiatives as successful.
+
+### Conclusion:
+The short-term (1-2 weeks) impact on the stock price is likely to be negative due to the disappointing Tegra results. However, the company's strategic initiatives and the strong performance in the GPU business could provide a positive catalyst for the stock in the longer term. The rating for the short-term impact is:
+
+[-1]

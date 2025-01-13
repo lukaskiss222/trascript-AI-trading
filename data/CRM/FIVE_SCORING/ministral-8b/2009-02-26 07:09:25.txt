@@ -1,0 +1,11 @@
+**Analysis:**
+Salesforce reported strong Q4 and full-year results, with record revenue and EPS growth. The company's cloud computing model continues to attract customers, particularly in the face of economic uncertainty. Key factors include:
+
+1. **Customer Wins:** Salesforce secured several large deals, including EMC and Avon, which are replacing legacy systems and maintenance fees with Salesforce subscriptions.
+2. **Platform Growth:** Force.com platform saw significant adoption, with 100,000 custom applications and over 450,000 custom objects. This indicates strong demand for cloud-based enterprise applications.
+3. **Economic Environment:** Despite the challenging economic conditions, Salesforce's cloud computing model remains attractive to customers, as it offers lower costs and flexibility compared to traditional enterprise software.
+
+**Conclusion:**
+The short-term impact on Salesforce's stock is likely to be positive, given the strong Q4 and full-year results, and the continued growth of its cloud computing platform. The company's ability to attract customers and maintain high adoption rates in a challenging economic environment is a strong indicator of its resilience and growth potential. The stock rating is:
+
+[1]

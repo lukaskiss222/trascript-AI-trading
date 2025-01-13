@@ -1,0 +1,3 @@
+NVIDIA's Q3 earnings call revealed strong demand for GPUs, with the company facing supply constraints, particularly in 40-nanometer products. Despite this, the company reported a strong quarter with revenue of $903.2 million, above guidance, and gross margin of 43.4%. The GPU business was particularly strong, with desktop and notebook GPU segments up 19% and 41% quarter-over-quarter, respectively. Management expressed confidence in the company's growth prospects, driven by the adoption of GPUs in various markets, including gaming, professional visualization, and mobile computing. The company's TEGRA processor is expected to contribute significantly to revenue growth in the future.
+
+[2]

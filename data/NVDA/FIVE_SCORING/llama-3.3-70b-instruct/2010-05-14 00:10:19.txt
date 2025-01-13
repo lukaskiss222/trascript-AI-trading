@@ -1,0 +1,2 @@
+NVIDIA's earnings call revealed a strong Q1 performance, with the company benefiting from the launch of its Fermi-based GeForce GPUs and Tesla products. The yield issues that previously constrained supply have improved, and Fermi is expected to continue ramping in Q2. Although the company is guiding for seasonal revenue decline in Q2, the ramp of Fermi and growth in other segments such as Quadro and Tegra are expected to offset this decline. With a strong product lineup and improving supply chain, NVIDIA is well-positioned for growth in the second half of the year. 
+[1]

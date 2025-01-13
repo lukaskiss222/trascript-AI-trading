@@ -1,0 +1,2 @@
+NVIDIA's Q2 earnings exceeded expectations significantly, driven by robust data center revenue growth, particularly in China (though below pre-export-control levels).  Management highlighted strong demand for both Hopper and Blackwell architectures, and projected continued growth, especially from generative AI applications and enterprise adoption.  The transition to Blackwell is anticipated to be smooth, and the company expects substantial Blackwell revenue in Q4, suggesting a positive short-term stock outlook.
+[2]

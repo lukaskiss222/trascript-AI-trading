@@ -1,0 +1,2 @@
+NVIDIA's earnings call highlights strong demand for Kepler GPUs, particularly in notebooks and desktop gaming.  Management anticipates continued growth in these segments, with Kepler being a key driver, and confident in the company's ability to continue market share gains.  The company's success with Tegra 3 in tablets is also a positive indicator.
+[2]

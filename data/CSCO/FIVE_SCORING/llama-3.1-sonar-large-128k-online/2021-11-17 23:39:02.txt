@@ -1,0 +1,26 @@
+Cisco's Q1 FY2022 earnings call presents a mixed but overall positive outlook, despite some short-term challenges. Here are the key points:
+
+## Strong Order Growth and Demand
+- Cisco reported robust order growth of 33%, with broad-based strength across all geographic regions and customer segments. This indicates strong demand for their products and services.
+
+## Supply Chain Constraints
+- The company is facing significant supply chain constraints, particularly component shortages, which are impacting their ability to convert high demand into revenue as quickly as desired. This has led to a large backlog and higher costs.
+
+## Financial Performance
+- Total revenue increased by 8% year-over-year to $12.9 billion, and non-GAAP EPS grew by 8% to $0.82. However, gross margins were slightly down due to higher costs from freight, expedite, and component shortages.
+
+## Guidance and Outlook
+- Despite supply chain issues, Cisco maintained its full-year guidance of 5% to 7% revenue growth and non-GAAP EPS growth. The Q2 guidance is somewhat impacted by supply constraints but still reflects positive growth.
+
+## Transition to Software and Subscriptions
+- Cisco is making significant progress in its business model transition to more software and subscription-based revenue streams. This transition is expected to provide more predictability and visibility to long-term growth.
+
+Given these points:
+
+- The strong demand and order growth, combined with the company's ability to maintain guidance, suggest a positive outlook.
+- However, the short-term impact of supply chain constraints could lead to some volatility in the stock price.
+
+### Conclusion
+The stock is likely to see a positive impact in the short term, driven by the company's strong demand, robust order growth, and maintained guidance, despite the temporary headwinds from supply chain issues.
+
+**Rating: 1**

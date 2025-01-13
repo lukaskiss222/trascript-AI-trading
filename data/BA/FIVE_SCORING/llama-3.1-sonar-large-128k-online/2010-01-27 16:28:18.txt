@@ -1,0 +1,20 @@
+The Boeing Company's fourth-quarter and full-year 2009 earnings call presents a mixed outlook with both positive and negative elements that could influence the stock price in the short term.
+
+### Positive Factors:
+- **Record Revenue and Strong Cash Flow**: Boeing reported record revenue of $68.3 billion for the year and generated $5.6 billion in operating cash flow, indicating strong financial management despite market and development program challenges[1][5].
+- **Solid Core Performance**: The company achieved strong earnings from its production programs, including the 737, 777, and military aircraft. The defense services business also maintained double-digit margins[1].
+- **Large Backlog**: Boeing has a substantial backlog of $316 billion, with commercial airplanes booked at $250 billion, which is more than seven times the annual revenue of the commercial segment[1].
+- **Progress on Development Programs**: The 787 program, despite its challenges, has made significant progress, including its first flight and ongoing flight testing[1].
+
+### Negative Factors:
+- **Development Program Challenges**: The 787 and 747-8 programs have incurred significant costs and delays, which have impacted overall financial results. The reclassification of 787 R&D costs and charges on the 747 program reduced earnings per share by $2.38 and $1.20, respectively[1][5].
+- **Lower 2010 Guidance**: Boeing anticipates lower revenues and earnings in 2010 due to reduced 777 production rates, lower delivery volumes, and continued high R&D investment. EPS guidance is set at $3.70 to $4.00 per share, which is lower than 2009's adjusted EPS[1].
+- **Margin Pressures**: The commercial airplanes segment is expected to experience a significant drop in margins in 2010 due to lower delivery volumes, R&D model changes, and increased fleet support investments[1].
+
+### Short-Term Impact:
+Given the mixed signals, the stock is likely to experience short-term pressure due to the lower 2010 guidance, ongoing development program challenges, and margin pressures. However, the strong core performance, large backlog, and progress on key development programs may mitigate some of the negative impacts.
+
+### Conclusion:
+The short-term impact on Boeing's stock price is likely to be slightly negative due to the reduced guidance and ongoing challenges, but the company's strong fundamentals and significant backlog could limit the extent of the decline.
+
+**Rating: -1**

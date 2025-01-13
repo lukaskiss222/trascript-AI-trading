@@ -1,0 +1,14 @@
+### Analysis
+
+Based on the earnings transcript, 3M's stock is likely to face short-term pressure due to the following factors:
+
+- **Withdrawn 2020 Guidance**: The company has withdrawn its 2020 guidance due to uncertainty, which is a significant negative signal for investors.
+- **Margins and Cost-Cutting**: The company expects margins to decrease by 30% to 40% in the second quarter, which is a substantial decrease.
+- **Uncertainty in End Markets**: The company has not been able to quantify the impacts to its business for the remainder of the year due to ongoing uncertainties in end markets.
+- **Pricing and Raw Material Impact**: While the company expects pricing to remain positive and raw materials to provide a tailwind, these factors are not quantified, adding to the uncertainty.
+
+### Conclusion
+
+Given these factors, the stock is likely to face short-term negative pressure due to the uncertainty and the significant margin decrease. The numeric rating is:
+
+-1

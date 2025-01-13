@@ -1,0 +1,3 @@
+NVIDIA reported a mixed Q2 with lower-than-expected desktop GPU revenues and a significant one-time charge, which may weigh on investor sentiment. However, positive strides in notebook GPUs and strategic initiatives like CUDA and Tesla could provide some support. Overall, the short-term outlook is likely bearish.
+
+[-1]

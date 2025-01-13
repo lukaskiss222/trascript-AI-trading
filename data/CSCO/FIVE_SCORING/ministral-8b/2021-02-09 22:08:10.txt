@@ -1,0 +1,19 @@
+### Analysis
+
+Cisco Systems reported strong financial results for the second quarter of fiscal year 2021, with revenues and earnings per share (EPS) exceeding expectations. The company's strategic transformation to software and cloud services continued to gain momentum, with software revenue accounting for 76% of total software revenue, up 4 points year-over-year. The company also saw growth in its security portfolio, driven by increasing adoption of cloud-based architectures.
+
+Key points from the earnings call include:
+
+1. **Revenue Growth**: Revenue of $12.0 billion came in at the top of the guidance range, flat year-over-year.
+2. **Non-GAAP EPS**: Non-GAAP EPS of $0.79 was above the high end of the guidance range, up 3% year-over-year.
+3. **Gross Margin**: The non-GAAP gross margin was 66.9%, up 50 basis points year-over-year.
+4. **Software Transition**: Software subscriptions were 76% of total software revenue, up 4 points year-over-year.
+5. **Web-Scale Growth**: The web-scale portfolio saw triple-digit growth year-over-year, with service provider orders up 5%.
+6. **Security Portfolio**: The security portfolio performed well, with strong double-digit growth in cloud security.
+7. **Dividend Increase**: The company announced a $0.01 increase in the quarterly dividend to $0.37 per share.
+
+### Conclusion
+
+The earnings call highlighted Cisco's continued progress in its transformation to a software and cloud services company. The strong financial results and positive guidance for the third quarter indicate that the company is well-positioned to benefit from the recovery in IT spending. Despite short-term headwinds from supply chain constraints and the extra week in Q3, the company's long-term growth prospects remain strong. The stock is likely to see a positive impact in the short term due to the strong earnings and positive outlook.
+
+**Rating: 1**

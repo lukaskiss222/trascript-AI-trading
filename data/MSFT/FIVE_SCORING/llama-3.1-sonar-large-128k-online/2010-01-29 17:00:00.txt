@@ -1,0 +1,10 @@
+Microsoft's Q2 FY2010 earnings transcript indicates several positive factors that are likely to influence the stock price in the short term:
+
+- **Record Revenue and Profits**: Microsoft reported record revenue of $19.02 billion and net income of $6.66 billion, driven by strong consumer demand for Windows 7 and other products like Office 2010 and Xbox Kinect[1][2][4].
+- **Strong Product Adoption**: Windows 7 has sold over 60 million licenses, making it the fastest-selling operating system in history. Additionally, Office 2010 beta has been well-received, and Xbox Live membership has grown significantly[1][2][4].
+- **Positive Outlook**: The company anticipates improving IT spending in 2010, with expectations of a business hardware refresh cycle starting in the calendar year. This, combined with a strong product pipeline including Windows 7, Office 2010, and Natal, positions the company well for future growth[1][4].
+- **Effective Cost Management**: Microsoft has been diligent in managing costs, with operating expenses increasing only 1% and a reduction in headcount by 8% year-over-year[1].
+
+Given these points, the overall tone of the earnings call is positive, indicating strong performance and a promising outlook.
+
+**Rating: 2**

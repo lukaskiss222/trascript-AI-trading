@@ -1,0 +1,2 @@
+NVIDIA's Q3 earnings call highlighted strong growth beyond the PC market, with non-PC revenue reaching 30% of total sales.  Management expressed cautious optimism, citing potential market softness, especially in the workstation sector, but emphasized the company's solid position in GPUs, gaming, high-performance computing, and tablets.  Strong demand for Kepler GPUs in desktops and notebooks, along with record performances for Tegra products, is anticipated to continue, although the company projects a slightly down sequential outlook for Q4.
+[1]

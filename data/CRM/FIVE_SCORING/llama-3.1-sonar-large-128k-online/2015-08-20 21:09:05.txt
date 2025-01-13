@@ -1,0 +1,15 @@
+Salesforce's Q4 FY2024 earnings report and subsequent analyst call revealed several key points that impact the short-term outlook for the stock.
+
+### Key Points:
+- **Revenue and Earnings:** Salesforce beat analysts' estimates with $9.29 billion in revenue, a 11% year-over-year increase, and GAAP diluted EPS of $1.47. Non-GAAP diluted EPS was $2.29, also exceeding expectations[1][3][4].
+- **Guidance:** Despite the strong performance, the company's guidance for FY2025 was slightly below expectations, with revenue projected at $37.7 billion to $38 billion, representing a 9% increase over FY2024. This led to a drop in the stock price in after-hours trading[2][3][4].
+- **Operating Margins and Cash Flow:** The company reported strong operating margins and cash flow, with non-GAAP operating margin at 31.4% for Q4 and 30.5% for FY2024. Operating cash flow was $10.2 billion, up 44% year-over-year[1][3][5].
+- **Remaining Performance Obligation:** The current remaining performance obligation increased by 12% year-over-year, indicating strong future revenue potential[1][3][5].
+
+### Impact on Stock Price:
+The positive earnings and revenue growth, along with the strong operating margins and cash flow, are typically bullish indicators. However, the slightly disappointing guidance for FY2025, which was below market expectations, led to an immediate negative reaction in the stock price.
+
+Given these factors, the short-term impact on the stock price is likely to be negative due to the guidance not meeting high market expectations, despite the otherwise strong earnings report.
+
+**Rating:**
+[-1]

@@ -1,0 +1,2 @@
+NVIDIA's Q4 2011 earnings call highlighted strong performance, driven by successful GPU launches, growing Tegra adoption, and a positive outlook for the future.  Management emphasized continued share gains in the desktop GPU market, the benefit of new games, 3D Vision growth, and the success of the Tesla segment.  The projected growth in Tegra, particularly with the new Kal-El processor, and the collaboration with Intel and other OEMs point to significant potential in the coming quarters.
+2

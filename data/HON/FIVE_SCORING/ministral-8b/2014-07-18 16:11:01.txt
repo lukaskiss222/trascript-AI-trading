@@ -1,0 +1,19 @@
+### Short-term Implications and Stock Price Prediction
+
+**Short-term Implications:**
+- **Positive Factors:**
+  - **Strong Financial Results:** The company reported strong financial results with EPS of $1.38, up 12% year-over-year, and sales growth of 3% organically.
+  - **Improved Defense and Space Sales:** The company saw a return to growth in Defense and Space, with international growth of 9% in the last quarter.
+  - **Optimistic Outlook:** The management raised the low end of its 2014 guidance by $0.05, indicating confidence in the company's performance.
+  - **New Product Introductions:** The introduction of new products like the Lyric thermostat and continued growth in solar ceramics and non-defense markets.
+
+- **Negative Factors:**
+  - **Delays in Military Contracts:** There were delays in XSAPI/ESAPI military contracts, which could affect future sales.
+  - **Reduced 2008 Body Armor Forecast:** The forecast for 2008 body armor sales was reduced, indicating a potential slowdown in defense-related sales.
+  - **Uncertainty in Defense Market:** The company continues to manage uncertainties in the defense market.
+
+**Stock Price Prediction:**
+Based on the positive financial results, improved outlook, and strategic growth initiatives, the stock is likely to see a positive impact in the short term. However, the delays in military contracts and reduced body armor forecasts may introduce some short-term volatility.
+
+**Rating:**
+**1** (Positive impact)

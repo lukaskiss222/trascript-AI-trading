@@ -1,0 +1,25 @@
+**Analysis:**
+
+The earnings call for Microsoft Corporation (MSFT) provided a comprehensive overview of the company's performance and future outlook. Key points include:
+
+1. **Strong Q4 Results:** The company reported $22.2 billion in Q4 revenue and $93.6 billion in total revenue for fiscal year 2015, marking an 8% year-over-year increase. Gross margin improved, and the company's cloud services continued to accelerate.
+
+2. **Windows 10 Launch:** The company is optimistic about the Windows 10 launch, expecting it to drive renewed growth in the second half of the fiscal year. The launch is expected to be in three phases: retail upgrades, holiday quarter device releases, and enterprise upgrades.
+
+3. **Cloud Services Growth:** Azure and other cloud services showed significant growth, with Azure premium services revenue tripling this quarter. The company expects continued growth in these areas.
+
+4. **Office 365 and Dynamics:** The company reported strong growth in Office 365 subscriptions and Dynamics CRM, with a significant increase in CRM online seats. The launch of Office 2016 and the new Office 365 Premium SKU, E5, is expected to drive significant new business.
+
+5. **Gaming and Hardware:** Xbox revenue grew by 27% this quarter, driven by strong console sales, online transactions, and exclusive gaming content. Surface revenue more than doubled to nearly $900 million.
+
+6. **Phone Business:** The company announced a change in strategy for the phone business, focusing on delivering differentiated experiences for targeted customer segments and improving operating results. This is expected to result in revenue declines in the near term but improved profitability in the long term.
+
+7. **Security:** Microsoft is expanding its security offerings, including Azure Key Vault and the new Office 365 E5 SKU, which includes advanced security features.
+
+8. **Outlook:** The company expects continued growth in cloud services, Windows 10, and other areas. The full-year guidance includes a range of $17.9 billion to $18.9 billion in revenue and $0.76 to $0.78 in EPS.
+
+**Conclusion:**
+
+The earnings call provided a positive outlook for Microsoft, with strong growth in cloud services, Office 365, and Dynamics, as well as optimism about the Windows 10 launch. However, the company's phone business is expected to face near-term revenue declines due to a change in strategy. Overall, the stock is expected to see a positive impact in the short term due to the strong results and positive outlook.
+
+**Rating:** 1

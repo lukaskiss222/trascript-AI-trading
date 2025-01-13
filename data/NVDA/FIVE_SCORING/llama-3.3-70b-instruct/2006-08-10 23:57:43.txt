@@ -1,0 +1,3 @@
+NVIDIA's Q2 earnings call revealed strong revenue growth, driven by record sales in several product groups, including desktop and notebook GPUs, MCPs, and professional solutions. The company's focus on high-end GPUs and SLI technology has paid off, with significant ASP increases and market share gains. Management's tone was optimistic, citing opportunities for growth in the PC market, particularly with the upcoming launch of Microsoft's Vista operating system, which is expected to drive demand for discrete GPUs. Additionally, the company's strategic position as a standalone GPU supplier, neutral to CPU vendors, may lead to increased collaboration with Intel, potentially driving further growth.
+
+[2]

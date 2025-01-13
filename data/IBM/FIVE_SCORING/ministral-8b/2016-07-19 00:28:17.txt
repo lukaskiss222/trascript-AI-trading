@@ -1,0 +1,13 @@
+### Analysis
+
+IBM's Q2 earnings report showed strong performance across various strategic imperatives, particularly in cloud and cognitive solutions. The company reported $20.2 billion in revenue, $3.5 billion in pre-tax income, and $2.95 in operating earnings per share. The company's cloud-as-a-service revenue grew by 50%, reaching an annual run rate of $6.7 billion. The company also saw growth in its cognitive solutions and security segments, with strong organic growth and contributions from acquisitions.
+
+However, there were some areas of concern, including a 2.5% decline in revenue at constant currency, driven by weaker performance in Europe and Asia Pacific. The company also noted that the mainframe product cycle continued to impact its EPS growth, but it expects this to improve in the second half of the year.
+
+IBM's management provided strong guidance for the second half of the year, expecting to deliver at least $13.50 in operating EPS. They also reiterated their commitment to investing in new areas and creating new markets, with a focus on as-a-service capabilities and cognitive solutions.
+
+### Conclusion
+
+IBM's Q2 earnings report showed strong performance in key strategic areas, but there were some headwinds in revenue growth and margin performance. The company's guidance for the second half of the year was positive, but there are some risks to consider, such as the impact of currency fluctuations and the mainframe product cycle. Overall, the short-term outlook for IBM's stock price is likely to be positive, as the company's strategic initiatives continue to gain traction and its guidance remains strong. However, investors should remain vigilant for any signs of weakness in the company's execution or changes in the macroeconomic environment.
+
+**Rating: 1**

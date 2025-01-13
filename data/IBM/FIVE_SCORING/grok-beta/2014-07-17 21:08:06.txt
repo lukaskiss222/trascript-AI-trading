@@ -1,0 +1,8 @@
+IBM's Q2 earnings call provided a mixed outlook for short-term impacts:
+
+- **Positives**: Improved year-to-year revenue, expanded gross and net margins, stable core franchises, significant steps in strategic initiatives like cloud and mobility with partnerships like Apple and new product launches like Bluemix and POWER8.
+- **Negatives**: Continued decline in hardware revenue, lower signings in services, persistent weakness in some geographies (notably AP outside Japan), and secular headwinds in parts of business like traditional ERP implementations and custom development, alongside cyclical issues in STG.
+- **Neutral**: Plans for divesting industry-standard servers is expected to impact revenues negatively soon.
+
+Given these points, the stock is likely to have a **neutral to slightly positive** impact in the next 1-2 weeks. The strategic initiatives and margin improvement could buoy investor confidence, but this might be offset by ongoing portfolio adjustments and regional weaknesses.
+[0]

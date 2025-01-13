@@ -1,0 +1,14 @@
+The earnings transcript for Salesforce.com's Q2 fiscal year 2010 indicates several positive and stable trends that are likely to have a positive impact on the stock price in the short term (1-2 weeks).
+
+Key points include:
+- **Strong Financial Performance**: Revenue increased by 20% year-over-year to $316 million, and GAAP earnings per share more than doubled to $0.17. Operating cash flow was strong, and the company exceeded the $1 billion mark for cash and marketable securities[5].
+- **Customer Growth**: Salesforce added approximately 3,900 net new paying customers, bringing the total to over 63,000, a 32% year-over-year increase[5].
+- **Competitive Wins**: The company reported significant wins against competitors like Oracle and Microsoft, highlighting its competitive strength and customer satisfaction[5].
+- **Product and Platform Growth**: The Service Cloud and Custom Cloud businesses showed impressive growth, with the Service Cloud logging a record quarter and the Custom Cloud benefiting from Force.com Sites and other platform advancements[5].
+- **Guidance Update**: The company raised its full-year revenue guidance to $1.27 billion to $1.28 billion and GAAP EPS guidance to $0.60 to $0.61, indicating confidence in its future performance[5].
+
+Despite some challenges such as increased attrition rates among smaller customers due to economic conditions, the overall tone of the call is positive, reflecting strong execution, customer success, and a solid financial position.
+
+Given these factors, the stock is likely to see a positive impact in the short term.
+
+[1] **Rating:** 1

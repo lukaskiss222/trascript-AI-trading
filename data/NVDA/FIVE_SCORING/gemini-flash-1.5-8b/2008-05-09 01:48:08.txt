@@ -1,0 +1,2 @@
+NVIDIA's Q1 earnings show strong revenue growth (37% YoY) driven by GPU performance, but profitability was disappointing due to challenging product transitions in the GPU business.  Management expressed confidence in correcting the margin issues with new product launches and expects gross margins to rebound in Q2.  The overall outlook is for seasonality in Q2, but with potential upside from new product releases, especially CUDA-enabled applications and the impending back-to-school season.
+[1]

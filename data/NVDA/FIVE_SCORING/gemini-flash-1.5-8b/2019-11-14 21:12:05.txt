@@ -1,0 +1,2 @@
+NVIDIA's earnings call highlights strong performance in the gaming and data center segments, driven by strong sequential growth in data center revenue, particularly in inference.  Management explicitly notes the importance of conversational AI and the increasing complexity of deep learning models, creating significant demand for NVIDIA's GPUs.  The company's guidance reflects expected seasonal declines in notebook and Switch-related GPU sales, while projecting strong sequential data center growth.
+[2]

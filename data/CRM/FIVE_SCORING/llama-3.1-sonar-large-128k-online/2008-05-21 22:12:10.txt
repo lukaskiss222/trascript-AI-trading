@@ -1,0 +1,11 @@
+The Salesforce.com Q1 2009 earnings transcript indicates several positive trends and strong performance metrics that are likely to have a favorable impact on the stock price in the short term:
+
+- **Record Revenue and Profitability**: Salesforce.com reported a 52% year-over-year increase in revenue to $247.6 million, exceeding expectations. This strong revenue growth translated into record profitability and cash flow, with GAAP operating margin improving significantly[3}.
+- **Cash Generation**: The company generated $83.8 million in operating cash flow, a 128% increase from the previous year, and $59.6 million in free cash flow, highlighting its robust cash generation capabilities[3].
+- **Customer Growth**: Salesforce added over 2,600 new customers, bringing the total to over 43,600, and saw significant traction in platform-as-a-service adoption, including major wins in Europe and Asia[3].
+- **Platform Expansion**: The Force.com platform is gaining momentum, with over 450 ISVs selling more than 800 applications on the AppExchange and over 80,000 developers in the community. This suggests a strong ecosystem and future growth potential[3].
+- **Positive Guidance**: The company raised its full-year revenue and EPS outlook, indicating continued confidence in its growth prospects[3].
+
+Given these strong metrics and the positive tone from management, the stock is likely to experience a positive impact in the short term.
+
+**Rating: 2**

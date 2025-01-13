@@ -1,0 +1,12 @@
+Microsoft's FY2012 Q2 earnings call highlighted several positive and stable aspects of the company's performance, despite some challenges in the PC market. Here are the key points:
+
+- **Record Revenue and EPS**: Microsoft reported a record revenue of $20.9 billion, a 5% increase, and record earnings per share of $0.78[1][2][4].
+- **Strong Business Demand**: The company saw strong demand for its business products and services, with double-digit revenue growth in key areas like Exchange, SharePoint, Lync, and Dynamics CRM[1][4].
+- **Resilience in PC Market**: Despite a challenging PC market, Microsoft managed to navigate through it well, with Windows 7 momentum continuing in the enterprise segment[1][4].
+- **Xbox and Entertainment**: The Entertainment & Devices Division had a record holiday season, with Xbox 360 sales up over 25% and Kinect sales impressive[1][4].
+- **Cost Management**: Operating expenses grew only 4%, reflecting the company's discipline in managing costs while investing for future growth[1][4].
+- **Future Outlook**: The company is optimistic about its product pipeline, including Windows 8, and expects continued growth in emerging markets and cloud services[1][4].
+
+Given these points, the stock is likely to respond positively in the short term due to the solid financial performance, robust business demand, and promising future outlook.
+
+**Rating: 2**

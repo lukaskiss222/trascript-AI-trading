@@ -1,0 +1,14 @@
+The Salesforce Q3 2017 earnings call presented several positive indicators that suggest a strong short-term outlook for the company's stock.
+
+### Key Points:
+- **Revenue Growth**: Salesforce reported a 27% year-over-year revenue growth in constant currency, exceeding expectations and setting a new high-water mark with revenue of over $2.1 billion.
+- **Strong Execution**: The company saw excellent execution across all key geographies and industries, with significant growth in large deals and a record number of seven-figure-plus transactions.
+- **Expansive Product Portfolio**: Salesforce's balanced portfolio of products, including Sales Cloud, Service Cloud, Marketing Cloud, and Commerce Cloud, continued to drive growth. The integration of Demandware and the success of new products like Einstein AI were highlighted as key drivers.
+- **International Growth**: Strong performance in international markets, particularly in Europe and Asia Pac, contributed to the overall growth.
+- **Guidance Increase**: The company raised its full-year revenue guidance to $8.365 billion to $8.375 billion and non-GAAP diluted EPS guidance, indicating confidence in future performance.
+- **Customer and Partner Momentum**: Significant wins with major clients such as PNC Bank, Citigroup, and Telecom Argentina, along with strong partnerships and a growing ecosystem, further solidified Salesforce's market position.
+
+### Conclusion:
+Given these strong results, the positive tone from management, and the raised guidance, it is likely that Salesforce's stock will experience a positive impact in the short term.
+
+**Rating: 2**

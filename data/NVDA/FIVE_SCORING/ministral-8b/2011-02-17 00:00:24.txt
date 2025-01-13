@@ -1,0 +1,9 @@
+**Analysis:**
+
+The earnings call for NVIDIA Corporation revealed strong performance in the fourth quarter, with revenue up 5% sequentially and gross margin at a record high. The company's key growth drivers include the Tegra 2 processor and the GTX 5 series GPUs. Management highlighted the potential for significant growth in the Tegra business, particularly with the upcoming Kal-El processor, which is expected to be in production this year. The company also emphasized its strategic partnerships and the growing demand for mobile computing devices. The call also addressed the impact of the Sandy Bridge delay on GPU production and the company's expectations for notebook market share.
+
+**Conclusion:**
+
+The earnings call provided positive signals for NVIDIA, with strong revenue growth and high gross margins. The company's strategic focus on mobile computing and the growth potential of the Tegra business are likely to drive continued growth in the coming quarters. However, the delay in Sandy Bridge production and the potential impact on GPU attach rates may pose short-term challenges. Overall, the call suggests a positive outlook for NVIDIA's stock in the short term.
+
+**Rating:** 1

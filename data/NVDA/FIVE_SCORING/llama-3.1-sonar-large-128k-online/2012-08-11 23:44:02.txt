@@ -1,0 +1,20 @@
+NVIDIA's Q2 fiscal 2013 earnings call presents several positive indicators that suggest a strong short-term outlook for the company's stock. Here are the key points:
+
+### Strong Financial Performance
+- Revenue increased 13% quarter-over-quarter to $1.04 billion, meeting the high end of the outlook. GAAP net income was up 97% from the prior quarter, and non-GAAP net income increased by 75%[3%.
+
+### Market Share Gains and Product Strength
+- NVIDIA's Kepler GPU and Tegra 3 processor drove record sales in notebooks and tablets. The company is gaining market share in the notebook segment due to the delayed Ivy Bridge rollout and strong demand for Kepler GPUs[3%.
+
+### Tegra Growth
+- Tegra had a record quarter, with significant growth driven by devices like the Nexus 7 and Microsoft's Surface RT. The tablet segment is expected to continue growing, with tablets likely to remain a strong growth opportunity[3%.
+
+### Supply Constraints Managed
+- Although the company is still supply-constrained, especially with 28-nanometer GPUs, management has factored this into their guidance. Improving yields and supply are expected to contribute positively to future margins and revenue[3%.
+
+### Positive Guidance
+- Guidance for the third quarter is strong, with expectations of continued growth in GPU and Tegra businesses. The company is confident about its position in the market and the trajectory of its products[3%.
+
+Given these points, the overall tone of the earnings call is positive, indicating strong current performance and promising future prospects. This is likely to have a positive impact on the stock price in the short term.
+
+**[2]**

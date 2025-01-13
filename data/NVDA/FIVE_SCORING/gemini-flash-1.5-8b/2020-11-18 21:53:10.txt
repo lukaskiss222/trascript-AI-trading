@@ -1,0 +1,2 @@
+NVIDIA's earnings call highlights significant strength in gaming, driven by strong demand for the RTX 30 series GPUs exceeding expectations.  Strong data center growth, particularly in AI inference with the A100, is also a positive.  However, concerns around supply constraints and a potential sequential decline in Mellanox networking revenue and a seasonal slowdown in Enterprise data center demand in Q4 and early Q1 merit further scrutiny.  The company's outlook reflects continued growth, though with nuanced short-term pressures.
+[1]

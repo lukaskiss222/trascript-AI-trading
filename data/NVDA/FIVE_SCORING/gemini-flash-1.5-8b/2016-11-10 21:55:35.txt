@@ -1,0 +1,2 @@
+NVIDIA's Q3 earnings call highlights significant growth across all segments, particularly the datacenter business, which nearly tripled year-over-year.  Strong demand for Pascal-based GPUs, especially in gaming and professional visualization, are driving the growth.  Management's comments regarding the long-term potential of AI and the scalability of the NVIDIA platform are positive and suggest continued strong performance in the near future.
+[2]

@@ -1,0 +1,24 @@
+Based on the transcript, here are the key takeaways and their implications for the short-term stock price of Salesforce, Inc.:
+
+1. **Strong Q4 Performance**: Salesforce reported strong Q4 and full-year results, with revenue of $457M and $1.66B respectively, and non-GAAP EPS of $0.31. This indicates robust demand for the company's products and services.
+
+2. **Growth in International Markets**: Salesforce's international revenue grew by 32% year-over-year, indicating strong demand from global customers. This includes significant growth in Europe and Asia.
+
+3. **Acquisitions and Strategic Investments**: The company made several strategic acquisitions, including Heroku and Dimdim, which are expected to drive growth in the platform as a service category. These acquisitions also contribute to the company's long-term vision of Cloud 2, a new paradigm for computing that is inherently social, mobile, and open.
+
+4. **Strong Pipeline and Customer Momentum**: Salesforce has a strong pipeline of new business and has added approximately 5,100 net new customers in Q4 alone. This indicates continued customer momentum and growth opportunities.
+
+5. **Revenue Guidance for FY 2012**: Salesforce raised its revenue guidance for FY 2012 to $2.03B to $2.05B, which would make it the first enterprise cloud-computing company to generate more than $2 billion in revenue by the end of the year. This is a significant milestone for the company and suggests strong growth expectations.
+
+6. **Chatter Adoption**: The adoption of Chatter, Salesforce's enterprise social network, has been strong, with over 80,000 paying customers deploying it. This indicates a strong demand for the company's social collaboration tools.
+
+**Short-term Implications**:
+
+- The strong Q4 performance and revenue guidance suggest a positive outlook for the company's stock price.
+- The company's focus on international markets and strategic acquisitions indicates a long-term growth strategy that could drive stock price appreciation.
+- The strong customer momentum and pipeline of new business also suggest continued growth opportunities.
+- The company's strategic investments and acquisitions, such as Heroku and Dimdim, could drive long-term growth and stock price appreciation.
+
+**Rating**: 2 (Great positive impact)
+
+The strong Q4 performance, revenue guidance, and long-term growth strategy suggest a positive outlook for Salesforce's stock price in the short term.

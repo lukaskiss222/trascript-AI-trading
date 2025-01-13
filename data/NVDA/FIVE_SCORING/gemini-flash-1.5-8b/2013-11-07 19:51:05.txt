@@ -1,0 +1,3 @@
+NVIDIA's earnings call highlighted strong performance across multiple segments, despite a weakening PC market.  Management emphasized growth in gaming, professional graphics (Quadro), and compute (Tesla) divisions, with impressive Tegra results driven by Tegra 4 adoption in various devices.  The guidance for Q4, while slightly below expectations for GPU revenues,  shows continued strong growth in Tegra and a positive outlook for capital returns to shareholders.
+
+[1]

@@ -1,0 +1,3 @@
+NVIDIA's Q2 earnings call revealed a strong quarter with revenue growth of 17% and non-GAAP net income of $37.7 million. The company's GPU business saw growth across all segments, with the desktop segment up 5% and notebook segment down 5%. Management expressed confidence in the company's ability to drive growth through innovation, particularly with the adoption of GPU computing and the upcoming launch of Windows 7 and Apple's Snow Leopard. The company's guidance for Q3 was modest, with revenue expected to grow 5-7%. Overall, the call suggested a positive outlook for the company's future prospects, driven by its strong position in the GPU market and its ability to innovate and drive growth.
+
+[2]

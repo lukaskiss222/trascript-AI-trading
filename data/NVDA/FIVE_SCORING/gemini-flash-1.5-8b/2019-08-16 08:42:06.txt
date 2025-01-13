@@ -1,0 +1,2 @@
+NVIDIA's Q2 FY20 earnings call highlighted strong sequential growth, particularly in gaming and automotive, driven by the RTX SUPER lineup and studio laptops.  Management expressed optimism about the future of ray tracing and AI adoption across various industries, while acknowledging certain challenges with some hyperscale customers.  The increasing importance of AI inference and edge computing suggests a positive long-term outlook despite some short-term data center softness.
+[1]

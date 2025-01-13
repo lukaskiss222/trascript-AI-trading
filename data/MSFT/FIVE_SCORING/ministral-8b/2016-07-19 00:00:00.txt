@@ -1,0 +1,12 @@
+Based on the provided transcript, Microsoft Corporation's Q4 and full-year earnings call for fiscal year 2016 revealed a strong performance across multiple segments, particularly in the commercial cloud and Office 365. The company reported $22.6 billion in revenue, an increase of 5% in constant currency, and $6.9 billion in operating income, up 11% year-over-year. Key highlights include:
+
+- **Office 365**: Commercial seats grew 45% year-over-year, and revenue grew 59% in constant currency.
+- **Dynamics 365**: Revenue grew 6% year-over-year, with 70% of enterprise agreements now including cloud offerings.
+- **Azure**: Revenue and usage grew by more than 100% in constant currency, driven by higher-level services and cognitive capabilities.
+- **More Personal Computing**: Windows 10 monthly active devices reached 350 million, and gaming engagement on Xbox LIVE hit record levels.
+
+Management provided positive guidance for the next fiscal year, expecting revenue growth in the range of $26.6 billion to $28.6 billion, with a non-GAAP operating income of $10.1 billion to $10.6 billion. The company also expects the effective tax rate to be around 20% for the full year.
+
+The stock is likely to see a positive impact in the short term due to the strong financial performance and positive outlook. The company's focus on cloud services, digital transformation, and strategic acquisitions should continue to drive growth and attract investors.
+
+**Rating: 1**

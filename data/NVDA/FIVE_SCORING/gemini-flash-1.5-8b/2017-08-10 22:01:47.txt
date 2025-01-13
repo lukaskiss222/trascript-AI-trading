@@ -1,0 +1,2 @@
+NVIDIA's Q2 2018 earnings call highlighted strong performance, exceeding expectations, driven by strong growth in gaming, professional visualization, and data center segments, particularly with the Volta platform ramp.  Management emphasized the growing adoption of GPUs in AI and cloud computing and projected continued success.  The impressive guidance for Q3 shows confidence in the company’s ability to maintain its strong momentum into and through the next few weeks.
+[2]

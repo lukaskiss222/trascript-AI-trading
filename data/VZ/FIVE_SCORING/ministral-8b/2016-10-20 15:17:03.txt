@@ -1,0 +1,17 @@
+Based on the transcript of Verizon Communications Inc.'s third quarter 2016 earnings call, here are the key points and their implications for the stock price over the next 1–2 weeks:
+
+1. **Financial Performance**: Verizon reported earnings of $0.89 per share, which was below analyst expectations. The company also reported a noncash pre-tax loss of $797 million due to pension re-measurement and severance costs. Excluding these non-operational items, adjusted earnings per share was $1.01, down 2.9% from the previous year. This indicates that Verizon's financial performance was not as strong as expected.
+
+2. **Wireless Segment**: The wireless segment saw a decline in service revenue and equipment revenue, which was partially offset by an increase in service revenue plus installment billings. The company also reported a decline in postpaid net additions, which was due to a net decline in 3G smartphones and an increase in tablet net additions. The company expects to return to year-over-year service revenue growth by the end of 2017.
+
+3. **Wireline Segment**: The wireline segment reported a decline in total operating revenues, which was primarily due to the sale of the three wireline markets to Frontier. The company also reported a decline in global enterprise revenue and wholesale revenue. However, the company expects to see a decline in wholesale revenue in the fourth quarter due to nonrecurring items in the prior year.
+
+4. **Cost Structure**: The company reported a decline in adjusted EBITDA margin in the third quarter, which was primarily due to a decline in wireless operating revenues and wireline operating revenues. The company expects to continue to make progress in expanding the wireline EBITDA margin.
+
+5. **Strategic Positioning**: The company reported progress in its strategic positioning and investments, including the launch of LTE Advanced in over 460 markets and the launch of a 5G commercial pilot program in 2017. The company also reported progress in its digital media and Internet of Things (IOT) initiatives.
+
+6. **M&A Strategy**: The company reported that it is focused on integrating its recent acquisitions, including Telogis and Fleetmatics, and that it does not see any large acquisitions on the horizon.
+
+Based on these points, the short-term (1–2 weeks) impact on the stock price is likely to be negative. The company's financial performance was not as strong as expected, and the wireless segment reported a decline in service revenue and equipment revenue. Additionally, the company reported a decline in adjusted EBITDA margin, which may indicate that the company is not as profitable as expected. However, the company's strategic positioning and investments may provide long-term growth opportunities. Therefore, the stock price may stabilize or even rally in the long term, but the short-term impact is likely to be negative.
+
+Rating: -1

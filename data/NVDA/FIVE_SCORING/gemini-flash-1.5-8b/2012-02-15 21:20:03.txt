@@ -1,0 +1,3 @@
+NVIDIA's earnings call highlighted the impact of the global disk drive shortage on PC sales, negatively impacting GPU revenue in the current quarter.  While the company expects the shortage to continue, they remained optimistic about the long-term prospects of their GPU and Tegra businesses.  Strong gaming demand, new Kepler architecture, and new game releases, and the ramp-up of Tegra 3 shipments suggest potential for positive growth in the coming weeks.
+
+1

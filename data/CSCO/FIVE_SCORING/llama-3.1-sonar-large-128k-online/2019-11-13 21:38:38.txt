@@ -1,0 +1,13 @@
+The transcript for Cisco's Q1 FY2020 earnings call reveals several key points that could influence the short-term stock performance:
+
+1. **Revenue and Earnings**: Despite a challenging macroeconomic environment, Cisco reported a 2% year-over-year revenue growth and a 12% increase in non-GAAP EPS. However, the company forecasted a revenue decline of 3-5% for the next quarter, which could be a short-term negative indicator[4].
+
+2. **Macro Economic Uncertainty**: The call highlighted broad-based weakness across various segments, including enterprise, commercial, and service provider markets, largely due to macroeconomic uncertainties such as trade tensions, Brexit, and other geopolitical issues. This uncertainty could continue to impact investor sentiment negatively in the short term[4].
+
+3. **Software Transition and Innovation**: Cisco is making significant progress in its transition to a software-based business model, with 71% of software revenue now coming from subscriptions. This transition is seen as a positive long-term strategy but may not immediately offset the short-term revenue decline[4].
+
+4. **Regional Performance**: The company saw weakness in key regions, including a 31% decline in China, which is a significant market. This regional weakness could further dampen short-term investor confidence[4].
+
+Given these points, while Cisco's long-term outlook remains positive due to its innovation pipeline and successful transition to a software-based model, the short-term impact of reduced guidance and ongoing macroeconomic uncertainties is likely to be negative.
+
+**Rating: -1**

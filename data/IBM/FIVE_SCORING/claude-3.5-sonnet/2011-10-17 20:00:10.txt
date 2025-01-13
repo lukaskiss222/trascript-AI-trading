@@ -1,0 +1,20 @@
+Based on my analysis of IBM's Q3 earnings call transcript, here are the key points supporting my rating:
+
+Positives:
+- Strong EPS growth of 15% YoY to $3.28
+- Raised full year EPS guidance to $13.35 from $13.25
+- Software segment showed robust 13% revenue growth
+- Strong growth in strategic initiatives (Cloud, Analytics, Smarter Planet)
+- Healthy growth markets performance with 13% constant currency growth
+- Expanded operating margins
+
+Concerns:
+- Major markets growth was flat this quarter, showing deceleration
+- Financial services sector growth slowed meaningfully
+- Services backlog declined sequentially for first time in 5 years
+- System z revenue declined 5% facing tough comparisons
+- Macro uncertainty could impact Q4 transactional volumes
+
+Overall, while there are some concerns about growth deceleration in certain areas, IBM demonstrated strong execution, margin expansion and raised guidance. The company appears well-positioned with its strategic initiatives and growth markets exposure to maintain momentum.
+
+[1]

@@ -1,0 +1,15 @@
+Salesforce's Q2 Fiscal 2018 earnings call highlighted several strong points that are likely to have a positive impact on the stock in the short term:
+
+1. **Record Revenue and Guidance**: Salesforce achieved a record $2.56 billion in revenue, a 26% year-over-year increase, and raised its full-year revenue guidance by $100 million to $10.35-$10.40 billion, indicating strong growth momentum[1][3][4%).
+
+2. **Strong Product Performance**: All cloud segments, including Sales Cloud, Service Cloud, Marketing Cloud, and Platform & Other, showed significant year-over-year growth, with particular strength in Marketing Cloud and Heroku[1][3][4].
+
+3. **Deferred Revenue Growth**: Deferred revenue grew 26% to $4.82 billion, and unbilled deferred revenue increased 30% to approximately $10.4 billion, signaling a robust pipeline of future revenue[1][3][4].
+
+4. **International Expansion and Strategic Partnerships**: The company reported strong international growth, particularly in EMEA and APAC, and highlighted strategic partnerships with AWS, IBM, and other key players, which are expected to drive further growth[1][3].
+
+5. **Innovation and Customer Success**: Salesforce emphasized its commitment to customer success, innovation, and the integration of AI through Einstein, which is already showing material impact on their results and is expected to be a significant growth driver[1][3].
+
+Given these strong metrics and the positive outlook, the stock is likely to experience a short-term positive impact.
+
+**[2]**
